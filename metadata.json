@@ -1,0 +1,8 @@
+{
+  "name": "VictorOS - Fullstack Engineer Portfolio",
+  "description": "A pixel-perfect macOS Ventura/Sonoma inspired web portfolio for Victor (@victorbjay), featuring a window management system, Terminal, Finder with GitHub integration, Safari, Music player, and VicBot AI assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
